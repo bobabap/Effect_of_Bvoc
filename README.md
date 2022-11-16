@@ -26,4 +26,4 @@ r2 score = 0.82 —> r2 score= 0.78
 <img width="392" alt="다운로드 (4)" src="https://user-images.githubusercontent.com/87513112/201477685-9823a3b9-bd76-45a9-85ee-0382cdfa44db.png">
 
 R2 score = 0.78 
-BVOC가 오존에 미치는 것으로 판단
+BVOC가 오존에 어느정도 미치는 것으로 판단
